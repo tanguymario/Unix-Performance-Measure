@@ -1,0 +1,2 @@
+sudo ./mesure -a --delay 1000 --time 60 --output outputs/gnu-linux/active-medium-delay-multicoeur.txt
+sudo ./mesure -a --delay 1000 --time 60 --cores 1 --output outputs/gnu-linux/active-medium-delay-monocoeur.txt

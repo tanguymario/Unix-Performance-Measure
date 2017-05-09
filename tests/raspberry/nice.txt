@@ -1,0 +1,4 @@
+sudo ./mesure -a --delay 100 --time 60 --nice -20 --output outputs/raspberry/active-nice-low.txt
+sudo ./mesure -a --delay 100 --time 60 --nice 20  --output outputs/raspberry/active-nice-high.txt
+sudo ./mesure -p --delay 100 --time 60 --nice -20 --output outputs/raspberry/passive-nice-low.txt
+sudo ./mesure -p --delay 100 --time 60 --nice 20  --output outputs/raspberry/passive-nice-high.txt

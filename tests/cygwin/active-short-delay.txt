@@ -1,0 +1,1 @@
+./mesure -a --delay 100 --time 60 --output outputs/cygwin/active-short-delay.txt

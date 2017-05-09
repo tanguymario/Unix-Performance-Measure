@@ -1,0 +1,2 @@
+sudo ./mesure -a --delay 1000 --time 60 --nice -20 --output outputs/raspberry/active-cores-nice-strong-busy.txt
+sudo ./mesure -a --delay 1000 --time 60 --cores 1 --nice 20 --output outputs/raspberry/active-cores-nice-weak-busy.txt

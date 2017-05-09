@@ -1,0 +1,2 @@
+./mesure -a --delay 100 --time 60 --output outputs/raspberry/active-short-delay.txt
+./mesure -p --delay 100 --time 60 --output outputs/raspberry/passive-short-delay.txt

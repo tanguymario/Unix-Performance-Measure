@@ -1,0 +1,2 @@
+./mesure -a --delay 100 --time 60 --nice -20 --output outputs/cygwin/active-nice-low.txt
+./mesure -a --delay 100 --time 60 --nice 20  --output outputs/cygwin/active-nice-high.txt

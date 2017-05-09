@@ -1,0 +1,2 @@
+./mesure -a --delay 100 --time 60 --output outputs/gnu-linux/active-short-delay.txt
+./mesure -p --delay 100 --time 60 --output outputs/gnu-linux/passive-short-delay.txt
